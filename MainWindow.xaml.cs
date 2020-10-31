@@ -22,6 +22,7 @@ namespace Ignat_Cristian_Lab2
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
